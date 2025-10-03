@@ -1,0 +1,38 @@
+{
+    "24779153": {
+        "title": "How has bioenergy capacity changed over time?",
+        "subtitle": "Operating capacity of all bioenergy fuel types coming online annually, in megawatts (MW)",
+        "x_axis": "year_grp",
+        "values": [
+            "total_capacity"
+        ],
+        "dataset": "operating_bioenergy_capacity_gbpt_output_filled",  
+        "initial_state": "World",
+        "filterable": true,
+        "filter_by": "Country/Area"
+    },
+    "24825200": {
+        "title": "What's the breakdown of fuel type within the bioenergy sector?",
+        "subtitle": "Bioenergy capacity by fuel type and project operating status, in megawatts (MW)",
+        "x_axis": "Fuel",
+        "values": [
+                "Prospective", "Operating"
+        ],
+        "dataset": "bioenergy_capacity_by_fuel_type_gbpt_output_filled",
+        "initial_state": "World",
+        "filterable": true,
+        "filter_by": "Country/Area"
+    },
+    "24827735": {
+        "title": "Are countries continuing to add woody biomass combustion despite it being unsustainable?",
+        "subtitle": "Operating capacity of woody-biomass combustion coming online annually, in megawatts (MW)",
+        "x_axis": "year_grp",
+        "values": [
+            "total_capacity"
+        ],
+        "dataset": "woody_biomass_operating_capacity_gbpt_output_filled",
+        "initial_state": "World",
+        "filterable": true,
+        "filter_by": "Country/Area"
+    }
+}

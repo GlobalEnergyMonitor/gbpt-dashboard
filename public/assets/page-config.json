@@ -1,0 +1,41 @@
+{
+    "flourish_ids": [
+        "24779153",
+        "24825200",
+        "24827735"
+    ],
+    "input_type": "dropdown",
+    "input_filter": "Country/Area",
+    "input_default": "World",
+    "overall_summary": true,
+    "ticker_text_font-size": "1.75rem",
+    "ticker_data": "dataticker_gbpt_gbpt_output_filled",
+    "tickers": [{
+        "id": "summary_1",
+        "decimal_places": 2,
+        "style": {
+            "color": "#BF532C",
+            "font-weight": "bold",
+            "font-size": "3rem"
+        }
+    },
+
+    {
+        "id": "summary_3",
+        "decimal_places": 2,
+        "style": {
+            "color": "#761201",
+            "font-weight": "bold",
+            "font-size": "3rem"
+        }
+    },
+    {
+        "id": "summary_2",
+        "decimal_places": 2,
+        "style": {
+            "color": "#3f6950",
+            "font-weight": "bold",
+            "font-size": "3rem"
+        }
+    }]
+}
