@@ -113,7 +113,7 @@ body {
 }
 
 .filter-button:has(input:checked) {
-    background-color: #FE4F2D;
+    background-color: #016B83;
     border: solid 1px #111;
     color: white;
 }
