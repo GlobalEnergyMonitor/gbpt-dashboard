@@ -31,7 +31,7 @@ async function getData() {
                 config.datasets[id] = [];
             })
             if (config.dashboard.tickers) {
-                dataURLS.push('https://public.flourish.studio/visualisation/16565310/visualisation.json') // this assumes we want the same template for all tickers
+                dataURLS.push('https://public.flourish.studio/visualisation/28342067/visualisation.json') // this assumes we want the same template for all tickers
                 dataURLS.push(`./assets/data_2025/${config.dashboard.ticker_data}.json`)
                 config.datasets.ticker = {};
             }
@@ -239,7 +239,7 @@ function formatWithTickerStyling(data, id) {
         style
     } = config.dashboard.tickers.filter(entry => entry.id === id)[0];
     const colourOverride = data[`${id}_color`];
-    const styledSpan = Object.entries(style).reduce((prev, [key, val]) => `${prev} ${key}: ${(key === 'color' && colourOverride) ? colourOverride : val};`, '<span style="') + '">';
+    const styledSpan = Object.entries(style).reduce((prev, [key, val]) => `${prev} ${key}: ${(key === 'color' && colourOverride) ? colourOverride : val};`, '<span style="font-family: Plus Jakarta Sans, sans-serif;') + '">';
     return text.replace('<span>', styledSpan);
 }
 
