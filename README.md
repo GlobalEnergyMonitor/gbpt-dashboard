@@ -1,12 +1,13 @@
-# Global Coal Plant Tracker dashboard
+# NOTE some of this read me will reference GCPT as it was the dashboard used as the first example when setting up Flourish. It's recommended that the PM update when possible. 
+# Global Bioenergy Plant Tracker dashboard
 
-This repository hosts the code for the [Global Coal Plant Tracker dashboard](https://globalenergymonitor.org/projects/global-coal-plant-tracker/dashboard/), built using the [Flourish API dashboard template setup](https://github.com/GlobalEnergyMonitor/Flourish-API-dashboard-template). For the full instructions on how the Flourish API framework, you can go through the comprehensive README that includes all the different steps on how to set and configure a new dashboard in the template Github repo. This repo will focus on how to update and make changes to the coal plant tracker dashboard, which is updated with new data releases every six months. 
+This repository hosts the code for the [Global Bioenergy Plant Tracker dashboard]([https://globalenergymonitor.org/projects/global-coal-plant-tracker/dashboard/](https://globalenergymonitor.org/projects/global-bioenergy-power-tracker/dashboard/)), built using the [Flourish API dashboard template setup](https://github.com/GlobalEnergyMonitor/Flourish-API-dashboard-template). For the full instructions on how the Flourish API framework, you can go through the comprehensive README that includes all the different steps on how to set and configure a new dashboard in the template Github repo. This repo will focus on how to update and make changes to the coal plant tracker dashboard, which is updated with new data releases every six months. 
 
 There are two main sections to this repo. The first one is the code used to format the data into the structure needed for the dashboard, included in the `data_wrangling` folder, and the second section houses the code for the dashboard itself, mostly in the `public` folder and its subfolders.   
 
 This README itself is split up into four different sections. The first section explains how each of the dashboard components are set up, with a snapshot of the data structure that make up each of the elements. Then there is a short guide to updating the dashboard. The third section provides detail on how each of the different elements making the dashboard up are structured and created, while the last section provides a more detailed step-by-step guide to updating the dashboard. 
 
-## How the GCPT dashboard is set up
+## How the GBPT dashboard is set up
 
 The dashboard has been created using the Flourish API template, and is made up of:  
 - a text summary, the summary phrase that provides a key fact about the country/region selected
