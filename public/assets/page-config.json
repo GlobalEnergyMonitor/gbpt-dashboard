@@ -9,7 +9,7 @@
     "input_default": "World",
     "overall_summary": true,
     "ticker_text_font-size": "1.75rem",
-    "ticker_data": "dataticker_gbpt_gbpt_output_filled",
+    "ticker_data": "dataticker_gbpt_gbpt_output_filled_2026-05-18",
     "tickers": [{
         "id": "summary_1",
         "decimal_places": 2,
