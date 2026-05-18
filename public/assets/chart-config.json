@@ -6,7 +6,7 @@
         "values": [
             "total_capacity"
         ],
-        "dataset": "operating_bioenergy_capacity_gbpt_output_filled",  
+        "dataset": "operating_bioenergy_capacity_gbpt_output_filled_2026-05-18",  
         "initial_state": "World",
         "filterable": true,
         "filter_by": "Country/Area"
@@ -18,7 +18,7 @@
         "values": [
                 "Prospective", "Operating"
         ],
-        "dataset": "bioenergy_capacity_by_fuel_type_gbpt_output_filled",
+        "dataset": "bioenergy_capacity_by_fuel_type_gbpt_output_filled_2026-05-18",
         "initial_state": "World",
         "filterable": true,
         "filter_by": "Country/Area"
@@ -30,7 +30,7 @@
         "values": [
             "total_capacity"
         ],
-        "dataset": "woody_biomass_operating_capacity_gbpt_output_filled",
+        "dataset": "woody_biomass_operating_capacity_gbpt_output_filled_2026-05-18",
         "initial_state": "World",
         "filterable": true,
         "filter_by": "Country/Area"
