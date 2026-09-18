@@ -239,7 +239,7 @@ function formatWithTickerStyling(data, id) {
         style
     } = config.dashboard.tickers.filter(entry => entry.id === id)[0];
     const colourOverride = data[`${id}_color`];
-    const styledSpan = Object.entries(style).reduce((prev, [key, val]) => `${prev} ${key}: ${(key === 'color' && colourOverride) ? colourOverride : val};`, '<span style="') + '">';
+    const styledSpan = Object.entries(style).reduce((prev, [key, val]) => `${prev} ${key}: ${(key === 'color' && colourOverride) ? colourOverride : val};`, '<span style="font-family: Plus Jakarta Sans, sans-serif;') + '">';
     return text.replace('<span>', styledSpan);
 }
 
