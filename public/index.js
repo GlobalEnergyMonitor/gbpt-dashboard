@@ -186,7 +186,14 @@ function renderTickers() {
             api_url: "/flourish",
             api_key: "", //filled in server side
             state: {
-                ...state
+                ...state,
+                layout: {
+                    ...state.layout,
+                    // ticker template (16565310) never filled in a real source_name, so it
+                    // was falling back to unfilled placeholder text ("...[tracker], [month,
+                    // year of release]"); blank it out to hide the source line entirely
+                    source_name: '',
+                }
             }
         };
 
