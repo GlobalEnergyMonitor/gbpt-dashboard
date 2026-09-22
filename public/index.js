@@ -346,6 +346,12 @@ function implentGraph(id) {
                     ...options.bindings.data,
                     label: config.charts[id].x_axis, // this seems to be the X axis
                     value: config.charts[id].values, // this is the actual bar
+                    // metadata originally referenced a column index into Flourish's own sheet;
+                    // since we swap in named-object rows (initialData), it must be remapped to
+                    // the matching column name or the tooltip field resolves to nothing.
+                    // (leave "filter" as-is: that drives Flourish's own internal filter control,
+                    // which this dashboard doesn't use since filtering happens externally)
+                    metadata: [config.charts[id].filter_by],
                 }
             },
             data: {
