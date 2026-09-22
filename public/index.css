@@ -210,7 +210,12 @@ body {
     }
 
     .chart-container {
-        flex: 45%;
+        /* no flex-grow: a lone chart left alone in the last row shouldn't stretch to
+           fill the empty space next to it - Flourish scales title/subtitle/tick/
+           source text proportionally to the iframe's width (though the drawn bars
+           stay capped by the chart's own max_width), so growing makes chart text
+           look zoomed in relative to its siblings */
+        flex: 0 1 45%;
         margin: 1rem;
     }
 }
