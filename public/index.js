@@ -27,12 +27,12 @@ async function getData() {
         .then(() => {
             const dataURLS = [];
             config.dashboard.flourish_ids.forEach(id => {
-                dataURLS.push(`./assets/data_2025/${config.charts[id].dataset}.json`);
+                dataURLS.push(`./assets/data_2026/${config.charts[id].dataset}.json`);
                 config.datasets[id] = [];
             })
             if (config.dashboard.tickers) {
-                dataURLS.push('https://public.flourish.studio/visualisation/28342067/visualisation.json') // this assumes we want the same template for all tickers
-                dataURLS.push(`./assets/data_2025/${config.dashboard.ticker_data}.json`)
+                dataURLS.push('https://public.flourish.studio/visualisation/16565310/visualisation.json') // this assumes we want the same template for all tickers
+                dataURLS.push(`./assets/data_2026/${config.dashboard.ticker_data}.json`)
                 config.datasets.ticker = {};
             }
             const fetches = [];
@@ -186,7 +186,14 @@ function renderTickers() {
             api_url: "/flourish",
             api_key: "", //filled in server side
             state: {
-                ...state
+                ...state,
+                layout: {
+                    ...state.layout,
+                    // ticker template (16565310) never filled in a real source_name, so it
+                    // was falling back to unfilled placeholder text ("...[tracker], [month,
+                    // year of release]"); blank it out to hide the source line entirely
+                    source_name: '',
+                }
             }
         };
 
@@ -346,6 +353,12 @@ function implentGraph(id) {
                     ...options.bindings.data,
                     label: config.charts[id].x_axis, // this seems to be the X axis
                     value: config.charts[id].values, // this is the actual bar
+                    // metadata originally referenced a column index into Flourish's own sheet;
+                    // since we swap in named-object rows (initialData), it must be remapped to
+                    // the matching column name or the tooltip field resolves to nothing.
+                    // (leave "filter" as-is: that drives Flourish's own internal filter control,
+                    // which this dashboard doesn't use since filtering happens externally)
+                    metadata: [config.charts[id].filter_by],
                 }
             },
             data: {

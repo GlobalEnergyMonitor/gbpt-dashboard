@@ -1,0 +1,3362 @@
+[
+  {
+    "Country/Area": "World",
+    "Fuel": "Agricultural waste",
+    "Operating": 38026.4,
+    "Prospective": 4277.6
+  },
+  {
+    "Country/Area": "World",
+    "Fuel": "Refuse",
+    "Operating": 35092.3,
+    "Prospective": 5875.1
+  },
+  {
+    "Country/Area": "World",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 28368.1,
+    "Prospective": 4650.7
+  },
+  {
+    "Country/Area": "World",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 15715.2,
+    "Prospective": 787.0
+  },
+  {
+    "Country/Area": "World",
+    "Fuel": "Other",
+    "Operating": 2786.4,
+    "Prospective": 1070.0
+  },
+  {
+    "Country/Area": "Andorra",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Andorra",
+    "Fuel": "Refuse",
+    "Operating": 18.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Andorra",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Andorra",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Andorra",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Angola",
+    "Fuel": "Agricultural waste",
+    "Operating": 100.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Angola",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Angola",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Angola",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Angola",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Argentina",
+    "Fuel": "Agricultural waste",
+    "Operating": 74.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Argentina",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Argentina",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 140.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Argentina",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 40.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Argentina",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Australia",
+    "Fuel": "Agricultural waste",
+    "Operating": 422.4,
+    "Prospective": 151.0
+  },
+  {
+    "Country/Area": "Australia",
+    "Fuel": "Refuse",
+    "Operating": 89.9,
+    "Prospective": 55.0
+  },
+  {
+    "Country/Area": "Australia",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Australia",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Australia",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Austria",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Austria",
+    "Fuel": "Refuse",
+    "Operating": 123.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Austria",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 122.5,
+    "Prospective": 70.0
+  },
+  {
+    "Country/Area": "Austria",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 9.5,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Austria",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Azerbaijan",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Azerbaijan",
+    "Fuel": "Refuse",
+    "Operating": 37.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Azerbaijan",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Azerbaijan",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Azerbaijan",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Bahrain",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Bahrain",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 25.0
+  },
+  {
+    "Country/Area": "Bahrain",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Bahrain",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Bahrain",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Bangladesh",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Bangladesh",
+    "Fuel": "Refuse",
+    "Operating": 42.0,
+    "Prospective": 81.0
+  },
+  {
+    "Country/Area": "Bangladesh",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Bangladesh",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Bangladesh",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Belgium",
+    "Fuel": "Agricultural waste",
+    "Operating": 26.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Belgium",
+    "Fuel": "Refuse",
+    "Operating": 152.4,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Belgium",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 107.0,
+    "Prospective": 100.0
+  },
+  {
+    "Country/Area": "Belgium",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Belgium",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Belize",
+    "Fuel": "Agricultural waste",
+    "Operating": 27.5,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Belize",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Belize",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Belize",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Belize",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Bolivia",
+    "Fuel": "Agricultural waste",
+    "Operating": 33.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Bolivia",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Bolivia",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Bolivia",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Bolivia",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Brazil",
+    "Fuel": "Agricultural waste",
+    "Operating": 12242.0,
+    "Prospective": 572.6
+  },
+  {
+    "Country/Area": "Brazil",
+    "Fuel": "Refuse",
+    "Operating": 245.3,
+    "Prospective": 175.7
+  },
+  {
+    "Country/Area": "Brazil",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 4955.2,
+    "Prospective": 542.2
+  },
+  {
+    "Country/Area": "Brazil",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Brazil",
+    "Fuel": "Other",
+    "Operating": 206.9,
+    "Prospective": 5.7
+  },
+  {
+    "Country/Area": "Burundi",
+    "Fuel": "Agricultural waste",
+    "Operating": 2.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Burundi",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Burundi",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Burundi",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Burundi",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Cambodia",
+    "Fuel": "Agricultural waste",
+    "Operating": 61.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Cambodia",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 12.0
+  },
+  {
+    "Country/Area": "Cambodia",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 50.0
+  },
+  {
+    "Country/Area": "Cambodia",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Cambodia",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Canada",
+    "Fuel": "Agricultural waste",
+    "Operating": 39.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Canada",
+    "Fuel": "Refuse",
+    "Operating": 128.5,
+    "Prospective": 121.0
+  },
+  {
+    "Country/Area": "Canada",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 1625.4,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Canada",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 304.3,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Canada",
+    "Fuel": "Other",
+    "Operating": 45.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Chile",
+    "Fuel": "Agricultural waste",
+    "Operating": 33.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Chile",
+    "Fuel": "Refuse",
+    "Operating": 32.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Chile",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 732.0,
+    "Prospective": 38.6
+  },
+  {
+    "Country/Area": "Chile",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 140.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Chile",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "China",
+    "Fuel": "Agricultural waste",
+    "Operating": 11194.0,
+    "Prospective": 2591.5
+  },
+  {
+    "Country/Area": "China",
+    "Fuel": "Refuse",
+    "Operating": 22389.0,
+    "Prospective": 1810.5
+  },
+  {
+    "Country/Area": "China",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 2462.0,
+    "Prospective": 330.0
+  },
+  {
+    "Country/Area": "China",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 1260.0,
+    "Prospective": 150.0
+  },
+  {
+    "Country/Area": "China",
+    "Fuel": "Other",
+    "Operating": 313.0,
+    "Prospective": 30.0
+  },
+  {
+    "Country/Area": "Colombia",
+    "Fuel": "Agricultural waste",
+    "Operating": 210.5,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Colombia",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Colombia",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 51.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Colombia",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Colombia",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Costa Rica",
+    "Fuel": "Agricultural waste",
+    "Operating": 49.5,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Costa Rica",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Costa Rica",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Costa Rica",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Costa Rica",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Cuba",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Cuba",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Cuba",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Cuba",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 60.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Cuba",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Czech Republic",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Czech Republic",
+    "Fuel": "Refuse",
+    "Operating": 30.2,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Czech Republic",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 40.3,
+    "Prospective": 90.0
+  },
+  {
+    "Country/Area": "Czech Republic",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Czech Republic",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Côte d'Ivoire",
+    "Fuel": "Agricultural waste",
+    "Operating": 46.0,
+    "Prospective": 101.0
+  },
+  {
+    "Country/Area": "Côte d'Ivoire",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Côte d'Ivoire",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Côte d'Ivoire",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Côte d'Ivoire",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "DR Congo",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 60.0
+  },
+  {
+    "Country/Area": "DR Congo",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "DR Congo",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "DR Congo",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "DR Congo",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Denmark",
+    "Fuel": "Agricultural waste",
+    "Operating": 109.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Denmark",
+    "Fuel": "Refuse",
+    "Operating": 153.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Denmark",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 742.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Denmark",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 930.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Denmark",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Djibouti",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Djibouti",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 40.0
+  },
+  {
+    "Country/Area": "Djibouti",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Djibouti",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Djibouti",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Dominican Republic",
+    "Fuel": "Agricultural waste",
+    "Operating": 44.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Dominican Republic",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 55.0
+  },
+  {
+    "Country/Area": "Dominican Republic",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Dominican Republic",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Dominican Republic",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Ecuador",
+    "Fuel": "Agricultural waste",
+    "Operating": 141.5,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Ecuador",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Ecuador",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Ecuador",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Ecuador",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Egypt",
+    "Fuel": "Agricultural waste",
+    "Operating": 45.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Egypt",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 253.0
+  },
+  {
+    "Country/Area": "Egypt",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Egypt",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Egypt",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "El Salvador",
+    "Fuel": "Agricultural waste",
+    "Operating": 244.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "El Salvador",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "El Salvador",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "El Salvador",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "El Salvador",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Estonia",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Estonia",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Estonia",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 80.0,
+    "Prospective": 91.0
+  },
+  {
+    "Country/Area": "Estonia",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 25.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Estonia",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Eswatini",
+    "Fuel": "Agricultural waste",
+    "Operating": 95.0,
+    "Prospective": 18.5
+  },
+  {
+    "Country/Area": "Eswatini",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Eswatini",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Eswatini",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Eswatini",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 40.0
+  },
+  {
+    "Country/Area": "Ethiopia",
+    "Fuel": "Agricultural waste",
+    "Operating": 243.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Ethiopia",
+    "Fuel": "Refuse",
+    "Operating": 25.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Ethiopia",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Ethiopia",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Ethiopia",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Fiji",
+    "Fuel": "Agricultural waste",
+    "Operating": 24.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Fiji",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Fiji",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 24.3,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Fiji",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Fiji",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Finland",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Finland",
+    "Fuel": "Refuse",
+    "Operating": 144.5,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Finland",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 898.8,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Finland",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 2720.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Finland",
+    "Fuel": "Other",
+    "Operating": 122.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "France",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "France",
+    "Fuel": "Refuse",
+    "Operating": 249.5,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "France",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 324.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "France",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 150.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "France",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 130.0
+  },
+  {
+    "Country/Area": "French Guiana",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "French Guiana",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "French Guiana",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 26.3,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "French Guiana",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "French Guiana",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 120.0
+  },
+  {
+    "Country/Area": "Germany",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Germany",
+    "Fuel": "Refuse",
+    "Operating": 1706.5,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Germany",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 880.4,
+    "Prospective": 57.5
+  },
+  {
+    "Country/Area": "Germany",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 40.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Germany",
+    "Fuel": "Other",
+    "Operating": 29.0,
+    "Prospective": 68.0
+  },
+  {
+    "Country/Area": "Ghana",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Ghana",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 60.0
+  },
+  {
+    "Country/Area": "Ghana",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Ghana",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Ghana",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Guadeloupe",
+    "Fuel": "Agricultural waste",
+    "Operating": 70.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Guadeloupe",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Guadeloupe",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Guadeloupe",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 32.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Guadeloupe",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Guatemala",
+    "Fuel": "Agricultural waste",
+    "Operating": 888.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Guatemala",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Guatemala",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Guatemala",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Guatemala",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Honduras",
+    "Fuel": "Agricultural waste",
+    "Operating": 230.9,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Honduras",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Honduras",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Honduras",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Honduras",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Hong Kong",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Hong Kong",
+    "Fuel": "Refuse",
+    "Operating": 60.0,
+    "Prospective": 120.0
+  },
+  {
+    "Country/Area": "Hong Kong",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Hong Kong",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Hong Kong",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Hungary",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Hungary",
+    "Fuel": "Refuse",
+    "Operating": 24.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Hungary",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 85.0,
+    "Prospective": 38.0
+  },
+  {
+    "Country/Area": "Hungary",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 200.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Hungary",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "India",
+    "Fuel": "Agricultural waste",
+    "Operating": 4374.6,
+    "Prospective": 22.0
+  },
+  {
+    "Country/Area": "India",
+    "Fuel": "Refuse",
+    "Operating": 202.9,
+    "Prospective": 172.0
+  },
+  {
+    "Country/Area": "India",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 133.5,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "India",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 14.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "India",
+    "Fuel": "Other",
+    "Operating": 80.3,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Indonesia",
+    "Fuel": "Agricultural waste",
+    "Operating": 91.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Indonesia",
+    "Fuel": "Refuse",
+    "Operating": 11.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Indonesia",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 400.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Indonesia",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 535.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Indonesia",
+    "Fuel": "Other",
+    "Operating": 15.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Iraq",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Iraq",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 100.0
+  },
+  {
+    "Country/Area": "Iraq",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Iraq",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Iraq",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Ireland",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Ireland",
+    "Fuel": "Refuse",
+    "Operating": 85.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Ireland",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 50.0
+  },
+  {
+    "Country/Area": "Ireland",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 38.4,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Ireland",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 356.5
+  },
+  {
+    "Country/Area": "Italy",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Italy",
+    "Fuel": "Refuse",
+    "Operating": 376.1,
+    "Prospective": 65.0
+  },
+  {
+    "Country/Area": "Italy",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 205.6,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Italy",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 46.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Italy",
+    "Fuel": "Other",
+    "Operating": 156.0,
+    "Prospective": 18.4
+  },
+  {
+    "Country/Area": "Japan",
+    "Fuel": "Agricultural waste",
+    "Operating": 454.0,
+    "Prospective": 136.0
+  },
+  {
+    "Country/Area": "Japan",
+    "Fuel": "Refuse",
+    "Operating": 544.7,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Japan",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 2935.3,
+    "Prospective": 58.0
+  },
+  {
+    "Country/Area": "Japan",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 1318.0,
+    "Prospective": 412.0
+  },
+  {
+    "Country/Area": "Japan",
+    "Fuel": "Other",
+    "Operating": 91.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Jordan",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Jordan",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Jordan",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Jordan",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Jordan",
+    "Fuel": "Other",
+    "Operating": 13.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Kazakhstan",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Kazakhstan",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 110.0
+  },
+  {
+    "Country/Area": "Kazakhstan",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Kazakhstan",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Kazakhstan",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Kenya",
+    "Fuel": "Agricultural waste",
+    "Operating": 51.7,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Kenya",
+    "Fuel": "Refuse",
+    "Operating": 45.0,
+    "Prospective": 10.0
+  },
+  {
+    "Country/Area": "Kenya",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Kenya",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Kenya",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 35.0
+  },
+  {
+    "Country/Area": "Kyrgyzstan",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Kyrgyzstan",
+    "Fuel": "Refuse",
+    "Operating": 50.0,
+    "Prospective": 30.0
+  },
+  {
+    "Country/Area": "Kyrgyzstan",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Kyrgyzstan",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Kyrgyzstan",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Latvia",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Latvia",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 20.0
+  },
+  {
+    "Country/Area": "Latvia",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 23.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Latvia",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Latvia",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Lithuania",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Lithuania",
+    "Fuel": "Refuse",
+    "Operating": 64.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Lithuania",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 80.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Lithuania",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Lithuania",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Luxembourg",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Luxembourg",
+    "Fuel": "Refuse",
+    "Operating": 15.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Luxembourg",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 2.8,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Luxembourg",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Luxembourg",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Macao",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Macao",
+    "Fuel": "Refuse",
+    "Operating": 58.7,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Macao",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Macao",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Macao",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Malaysia",
+    "Fuel": "Agricultural waste",
+    "Operating": 244.8,
+    "Prospective": 60.0
+  },
+  {
+    "Country/Area": "Malaysia",
+    "Fuel": "Refuse",
+    "Operating": 25.0,
+    "Prospective": 65.0
+  },
+  {
+    "Country/Area": "Malaysia",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 12.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Malaysia",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Malaysia",
+    "Fuel": "Other",
+    "Operating": 40.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Maldives",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Maldives",
+    "Fuel": "Refuse",
+    "Operating": 1.5,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Maldives",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Maldives",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Maldives",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Martinique",
+    "Fuel": "Agricultural waste",
+    "Operating": 40.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Martinique",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Martinique",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Martinique",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Martinique",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Mauritius",
+    "Fuel": "Agricultural waste",
+    "Operating": 54.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Mauritius",
+    "Fuel": "Refuse",
+    "Operating": 3.3,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Mauritius",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Mauritius",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Mauritius",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Mexico",
+    "Fuel": "Agricultural waste",
+    "Operating": 625.1,
+    "Prospective": 74.0
+  },
+  {
+    "Country/Area": "Mexico",
+    "Fuel": "Refuse",
+    "Operating": 12.7,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Mexico",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 28.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Mexico",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Mexico",
+    "Fuel": "Other",
+    "Operating": 44.4,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Morocco",
+    "Fuel": "Agricultural waste",
+    "Operating": 4.6,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Morocco",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Morocco",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Morocco",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Morocco",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Myanmar",
+    "Fuel": "Agricultural waste",
+    "Operating": 20.7,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Myanmar",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Myanmar",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Myanmar",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Myanmar",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Namibia",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 40.0
+  },
+  {
+    "Country/Area": "Namibia",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 8.5
+  },
+  {
+    "Country/Area": "Namibia",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 40.0
+  },
+  {
+    "Country/Area": "Namibia",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Namibia",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Netherlands",
+    "Fuel": "Agricultural waste",
+    "Operating": 191.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Netherlands",
+    "Fuel": "Refuse",
+    "Operating": 675.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Netherlands",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 661.0,
+    "Prospective": 731.0
+  },
+  {
+    "Country/Area": "Netherlands",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 59.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Netherlands",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "New Zealand",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "New Zealand",
+    "Fuel": "Refuse",
+    "Operating": 30.5,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "New Zealand",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 78.5,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "New Zealand",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "New Zealand",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Nicaragua",
+    "Fuel": "Agricultural waste",
+    "Operating": 151.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Nicaragua",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Nicaragua",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Nicaragua",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Nicaragua",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Nigeria",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 35.0
+  },
+  {
+    "Country/Area": "Nigeria",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 75.0
+  },
+  {
+    "Country/Area": "Nigeria",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Nigeria",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Nigeria",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Oman",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Oman",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 100.0
+  },
+  {
+    "Country/Area": "Oman",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Oman",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Oman",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Pakistan",
+    "Fuel": "Agricultural waste",
+    "Operating": 516.7,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Pakistan",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 50.0
+  },
+  {
+    "Country/Area": "Pakistan",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Pakistan",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Pakistan",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Papua New Guinea",
+    "Fuel": "Agricultural waste",
+    "Operating": 4.5,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Papua New Guinea",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Papua New Guinea",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Papua New Guinea",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Papua New Guinea",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Paraguay",
+    "Fuel": "Agricultural waste",
+    "Operating": 20.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Paraguay",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Paraguay",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 220.0
+  },
+  {
+    "Country/Area": "Paraguay",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Paraguay",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Peru",
+    "Fuel": "Agricultural waste",
+    "Operating": 134.2,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Peru",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Peru",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Peru",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Peru",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Philippines",
+    "Fuel": "Agricultural waste",
+    "Operating": 497.4,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Philippines",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 27.0
+  },
+  {
+    "Country/Area": "Philippines",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Philippines",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Philippines",
+    "Fuel": "Other",
+    "Operating": 30.0,
+    "Prospective": 15.0
+  },
+  {
+    "Country/Area": "Poland",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Poland",
+    "Fuel": "Refuse",
+    "Operating": 16.0,
+    "Prospective": 126.5
+  },
+  {
+    "Country/Area": "Poland",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 651.0,
+    "Prospective": 68.4
+  },
+  {
+    "Country/Area": "Poland",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 37.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Poland",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Portugal",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Portugal",
+    "Fuel": "Refuse",
+    "Operating": 76.5,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Portugal",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 379.6,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Portugal",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Portugal",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Qatar",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Qatar",
+    "Fuel": "Refuse",
+    "Operating": 50.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Qatar",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Qatar",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Qatar",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Republic of the Congo",
+    "Fuel": "Agricultural waste",
+    "Operating": 6.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Republic of the Congo",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Republic of the Congo",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Republic of the Congo",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Republic of the Congo",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 10.0
+  },
+  {
+    "Country/Area": "Romania",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Romania",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Romania",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Romania",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 30.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Romania",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Russia",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Russia",
+    "Fuel": "Refuse",
+    "Operating": 70.0,
+    "Prospective": 265.0
+  },
+  {
+    "Country/Area": "Russia",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 12.8,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Russia",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Russia",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Rwanda",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Rwanda",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 15.0
+  },
+  {
+    "Country/Area": "Rwanda",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Rwanda",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Rwanda",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Réunion",
+    "Fuel": "Agricultural waste",
+    "Operating": 332.3,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Réunion",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Réunion",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Réunion",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Réunion",
+    "Fuel": "Other",
+    "Operating": 253.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Saudi Arabia",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Saudi Arabia",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 300.0
+  },
+  {
+    "Country/Area": "Saudi Arabia",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Saudi Arabia",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Saudi Arabia",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Senegal",
+    "Fuel": "Agricultural waste",
+    "Operating": 40.0,
+    "Prospective": 42.0
+  },
+  {
+    "Country/Area": "Senegal",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 10.0
+  },
+  {
+    "Country/Area": "Senegal",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Senegal",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Senegal",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Serbia",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Serbia",
+    "Fuel": "Refuse",
+    "Operating": 30.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Serbia",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 7.2,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Serbia",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Serbia",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Sierra Leone",
+    "Fuel": "Agricultural waste",
+    "Operating": 32.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Sierra Leone",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Sierra Leone",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Sierra Leone",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Sierra Leone",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Singapore",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Singapore",
+    "Fuel": "Refuse",
+    "Operating": 278.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Singapore",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 13.0
+  },
+  {
+    "Country/Area": "Singapore",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 160.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Singapore",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 80.0
+  },
+  {
+    "Country/Area": "Slovenia",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Slovenia",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Slovenia",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 20.0
+  },
+  {
+    "Country/Area": "Slovenia",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Slovenia",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "South Africa",
+    "Fuel": "Agricultural waste",
+    "Operating": 200.4,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "South Africa",
+    "Fuel": "Refuse",
+    "Operating": 19.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "South Africa",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 25.0,
+    "Prospective": 45.0
+  },
+  {
+    "Country/Area": "South Africa",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "South Africa",
+    "Fuel": "Other",
+    "Operating": 117.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "South Korea",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "South Korea",
+    "Fuel": "Refuse",
+    "Operating": 150.4,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "South Korea",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 860.6,
+    "Prospective": 467.0
+  },
+  {
+    "Country/Area": "South Korea",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 242.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "South Korea",
+    "Fuel": "Other",
+    "Operating": 350.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Spain",
+    "Fuel": "Agricultural waste",
+    "Operating": 122.1,
+    "Prospective": 50.0
+  },
+  {
+    "Country/Area": "Spain",
+    "Fuel": "Refuse",
+    "Operating": 230.3,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Spain",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 476.4,
+    "Prospective": 50.0
+  },
+  {
+    "Country/Area": "Spain",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 65.0,
+    "Prospective": 50.0
+  },
+  {
+    "Country/Area": "Spain",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Sri Lanka",
+    "Fuel": "Agricultural waste",
+    "Operating": 18.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Sri Lanka",
+    "Fuel": "Refuse",
+    "Operating": 10.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Sri Lanka",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 10.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Sri Lanka",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Sri Lanka",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Sudan",
+    "Fuel": "Agricultural waste",
+    "Operating": 175.8,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Sudan",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Sudan",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Sudan",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Sudan",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Suriname",
+    "Fuel": "Agricultural waste",
+    "Operating": 30.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Suriname",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Suriname",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Suriname",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Suriname",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Sweden",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Sweden",
+    "Fuel": "Refuse",
+    "Operating": 452.1,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Sweden",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 2060.1,
+    "Prospective": 45.0
+  },
+  {
+    "Country/Area": "Sweden",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 906.2,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Sweden",
+    "Fuel": "Other",
+    "Operating": 255.3,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Switzerland",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Switzerland",
+    "Fuel": "Refuse",
+    "Operating": 198.5,
+    "Prospective": 56.0
+  },
+  {
+    "Country/Area": "Switzerland",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 48.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Switzerland",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Switzerland",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Taiwan",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Taiwan",
+    "Fuel": "Refuse",
+    "Operating": 502.8,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Taiwan",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 107.0
+  },
+  {
+    "Country/Area": "Taiwan",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Taiwan",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Tanzania",
+    "Fuel": "Agricultural waste",
+    "Operating": 37.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Tanzania",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 21.0
+  },
+  {
+    "Country/Area": "Tanzania",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 9.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Tanzania",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Tanzania",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Thailand",
+    "Fuel": "Agricultural waste",
+    "Operating": 1784.8,
+    "Prospective": 151.0
+  },
+  {
+    "Country/Area": "Thailand",
+    "Fuel": "Refuse",
+    "Operating": 271.5,
+    "Prospective": 30.0
+  },
+  {
+    "Country/Area": "Thailand",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 235.1,
+    "Prospective": 115.0
+  },
+  {
+    "Country/Area": "Thailand",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 161.0,
+    "Prospective": 23.0
+  },
+  {
+    "Country/Area": "Thailand",
+    "Fuel": "Other",
+    "Operating": 178.5,
+    "Prospective": 9.6
+  },
+  {
+    "Country/Area": "Türkiye",
+    "Fuel": "Agricultural waste",
+    "Operating": 165.8,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Türkiye",
+    "Fuel": "Refuse",
+    "Operating": 649.2,
+    "Prospective": 53.0
+  },
+  {
+    "Country/Area": "Türkiye",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 22.5,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Türkiye",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 14.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Türkiye",
+    "Fuel": "Other",
+    "Operating": 307.5,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Uganda",
+    "Fuel": "Agricultural waste",
+    "Operating": 86.7,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Uganda",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 75.0
+  },
+  {
+    "Country/Area": "Uganda",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Uganda",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Uganda",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Ukraine",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Ukraine",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 12.0
+  },
+  {
+    "Country/Area": "Ukraine",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 19.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Ukraine",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Ukraine",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "United Arab Emirates",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "United Arab Emirates",
+    "Fuel": "Refuse",
+    "Operating": 220.0,
+    "Prospective": 140.0
+  },
+  {
+    "Country/Area": "United Arab Emirates",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "United Arab Emirates",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "United Arab Emirates",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "United Kingdom",
+    "Fuel": "Agricultural waste",
+    "Operating": 141.3,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "United Kingdom",
+    "Fuel": "Refuse",
+    "Operating": 1566.5,
+    "Prospective": 921.9
+  },
+  {
+    "Country/Area": "United Kingdom",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 3540.5,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "United Kingdom",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 185.0,
+    "Prospective": 40.0
+  },
+  {
+    "Country/Area": "United Kingdom",
+    "Fuel": "Other",
+    "Operating": 59.0,
+    "Prospective": 111.8
+  },
+  {
+    "Country/Area": "United States",
+    "Fuel": "Agricultural waste",
+    "Operating": 242.6,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "United States",
+    "Fuel": "Refuse",
+    "Operating": 2290.3,
+    "Prospective": 17.0
+  },
+  {
+    "Country/Area": "United States",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 1481.4,
+    "Prospective": 325.0
+  },
+  {
+    "Country/Area": "United States",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 5983.8,
+    "Prospective": 12.0
+  },
+  {
+    "Country/Area": "United States",
+    "Fuel": "Other",
+    "Operating": 80.5,
+    "Prospective": 40.0
+  },
+  {
+    "Country/Area": "Uruguay",
+    "Fuel": "Agricultural waste",
+    "Operating": 24.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Uruguay",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Uruguay",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 674.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Uruguay",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 10.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Uruguay",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Uzbekistan",
+    "Fuel": "Agricultural waste",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Uzbekistan",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 112.0
+  },
+  {
+    "Country/Area": "Uzbekistan",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Uzbekistan",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Uzbekistan",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Vietnam",
+    "Fuel": "Agricultural waste",
+    "Operating": 304.0,
+    "Prospective": 85.0
+  },
+  {
+    "Country/Area": "Vietnam",
+    "Fuel": "Refuse",
+    "Operating": 139.0,
+    "Prospective": 80.0
+  },
+  {
+    "Country/Area": "Vietnam",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 889.0
+  },
+  {
+    "Country/Area": "Vietnam",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 100.0
+  },
+  {
+    "Country/Area": "Vietnam",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Zambia",
+    "Fuel": "Agricultural waste",
+    "Operating": 40.0,
+    "Prospective": 88.0
+  },
+  {
+    "Country/Area": "Zambia",
+    "Fuel": "Refuse",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Zambia",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Zambia",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Zambia",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Zimbabwe",
+    "Fuel": "Agricultural waste",
+    "Operating": 74.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Zimbabwe",
+    "Fuel": "Refuse",
+    "Operating": 22.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Zimbabwe",
+    "Fuel": "Wood burning - sole fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Zimbabwe",
+    "Fuel": "Wood burning - multi fuel",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  },
+  {
+    "Country/Area": "Zimbabwe",
+    "Fuel": "Other",
+    "Operating": 0.0,
+    "Prospective": 0.0
+  }
+]

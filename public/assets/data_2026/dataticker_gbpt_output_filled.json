@@ -1,0 +1,1010 @@
+[
+  {
+    "Country/Area": "World",
+    "summary_1": "<span>119988.4 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 119988.4,
+    "summary_2": "<span>10601.3 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 10601.3,
+    "summary_3": "<span>6059.1 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 6059.1
+  },
+  {
+    "Country/Area": "Andorra",
+    "summary_1": "<span>18.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 18.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Angola",
+    "summary_1": "<span>100.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 100.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Argentina",
+    "summary_1": "<span>254.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 254.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Australia",
+    "summary_1": "<span>512.3 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 512.3,
+    "summary_2": "<span>206.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 206.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Austria",
+    "summary_1": "<span>255.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 255.0,
+    "summary_2": "<span>70.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 70.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Azerbaijan",
+    "summary_1": "<span>37.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 37.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Bahrain",
+    "summary_1": "<span>0.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 0.0,
+    "summary_2": "<span>25.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 25.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Bangladesh",
+    "summary_1": "<span>42.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 42.0,
+    "summary_2": "<span>11.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 11.0,
+    "summary_3": "<span>70.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 70.0
+  },
+  {
+    "Country/Area": "Belgium",
+    "summary_1": "<span>285.4 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 285.4,
+    "summary_2": "<span>100.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 100.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Belize",
+    "summary_1": "<span>27.5 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 27.5,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Bolivia",
+    "summary_1": "<span>33.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 33.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Brazil",
+    "summary_1": "<span>17649.4 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 17649.4,
+    "summary_2": "<span>529.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 529.0,
+    "summary_3": "<span>767.2 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 767.2
+  },
+  {
+    "Country/Area": "Burundi",
+    "summary_1": "<span>2.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 2.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Cambodia",
+    "summary_1": "<span>61.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 61.0,
+    "summary_2": "<span>62.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 62.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Canada",
+    "summary_1": "<span>2142.2 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 2142.2,
+    "summary_2": "<span>121.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 121.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Chile",
+    "summary_1": "<span>937.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 937.0,
+    "summary_2": "<span>38.6 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 38.6,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "China",
+    "summary_1": "<span>37618.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 37618.0,
+    "summary_2": "<span>2924.5 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 2924.5,
+    "summary_3": "<span>1987.5 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 1987.5
+  },
+  {
+    "Country/Area": "Colombia",
+    "summary_1": "<span>261.5 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 261.5,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Costa Rica",
+    "summary_1": "<span>49.5 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 49.5,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Cuba",
+    "summary_1": "<span>60.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 60.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Czech Republic",
+    "summary_1": "<span>70.5 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 70.5,
+    "summary_2": "<span>10.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 10.0,
+    "summary_3": "<span>80.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 80.0
+  },
+  {
+    "Country/Area": "Côte d'Ivoire",
+    "summary_1": "<span>46.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 46.0,
+    "summary_2": "<span>101.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 101.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "DR Congo",
+    "summary_1": "<span>0.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 0.0,
+    "summary_2": "<span>60.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 60.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Denmark",
+    "summary_1": "<span>1934.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 1934.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Djibouti",
+    "summary_1": "<span>0.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 0.0,
+    "summary_2": "<span>40.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 40.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Dominican Republic",
+    "summary_1": "<span>44.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 44.0,
+    "summary_2": "<span>55.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 55.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Ecuador",
+    "summary_1": "<span>141.5 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 141.5,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Egypt",
+    "summary_1": "<span>45.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 45.0,
+    "summary_2": "<span>100.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 100.0,
+    "summary_3": "<span>153.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 153.0
+  },
+  {
+    "Country/Area": "El Salvador",
+    "summary_1": "<span>244.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 244.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Estonia",
+    "summary_1": "<span>105.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 105.0,
+    "summary_2": "<span>91.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 91.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Eswatini",
+    "summary_1": "<span>95.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 95.0,
+    "summary_2": "<span>58.5 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 58.5,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Ethiopia",
+    "summary_1": "<span>268.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 268.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Fiji",
+    "summary_1": "<span>48.3 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 48.3,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Finland",
+    "summary_1": "<span>3885.3 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 3885.3,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "France",
+    "summary_1": "<span>723.5 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 723.5,
+    "summary_2": "<span>130.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 130.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "French Guiana",
+    "summary_1": "<span>26.3 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 26.3,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>120.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 120.0
+  },
+  {
+    "Country/Area": "Germany",
+    "summary_1": "<span>2655.9 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 2655.9,
+    "summary_2": "<span>95.5 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 95.5,
+    "summary_3": "<span>30.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 30.0
+  },
+  {
+    "Country/Area": "Ghana",
+    "summary_1": "<span>0.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 0.0,
+    "summary_2": "<span>60.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 60.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Guadeloupe",
+    "summary_1": "<span>102.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 102.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Guatemala",
+    "summary_1": "<span>888.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 888.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Honduras",
+    "summary_1": "<span>230.9 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 230.9,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Hong Kong",
+    "summary_1": "<span>60.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 60.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>120.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 120.0
+  },
+  {
+    "Country/Area": "Hungary",
+    "summary_1": "<span>309.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 309.0,
+    "summary_2": "<span>38.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 38.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "India",
+    "summary_1": "<span>4805.3 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 4805.3,
+    "summary_2": "<span>150.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 150.0,
+    "summary_3": "<span>44.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 44.0
+  },
+  {
+    "Country/Area": "Indonesia",
+    "summary_1": "<span>1052.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 1052.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Iraq",
+    "summary_1": "<span>0.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 0.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>100.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 100.0
+  },
+  {
+    "Country/Area": "Ireland",
+    "summary_1": "<span>123.4 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 123.4,
+    "summary_2": "<span>106.5 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 106.5,
+    "summary_3": "<span>300.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 300.0
+  },
+  {
+    "Country/Area": "Italy",
+    "summary_1": "<span>783.7 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 783.7,
+    "summary_2": "<span>18.4 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 18.4,
+    "summary_3": "<span>65.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 65.0
+  },
+  {
+    "Country/Area": "Japan",
+    "summary_1": "<span>5343.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 5343.0,
+    "summary_2": "<span>606.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 606.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Jordan",
+    "summary_1": "<span>13.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 13.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Kazakhstan",
+    "summary_1": "<span>0.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 0.0,
+    "summary_2": "<span>110.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 110.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Kenya",
+    "summary_1": "<span>96.7 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 96.7,
+    "summary_2": "<span>35.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 35.0,
+    "summary_3": "<span>10.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 10.0
+  },
+  {
+    "Country/Area": "Kyrgyzstan",
+    "summary_1": "<span>50.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 50.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>30.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 30.0
+  },
+  {
+    "Country/Area": "Latvia",
+    "summary_1": "<span>23.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 23.0,
+    "summary_2": "<span>20.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 20.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Lithuania",
+    "summary_1": "<span>144.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 144.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Luxembourg",
+    "summary_1": "<span>17.8 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 17.8,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Macao",
+    "summary_1": "<span>58.7 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 58.7,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Malaysia",
+    "summary_1": "<span>321.8 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 321.8,
+    "summary_2": "<span>100.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 100.0,
+    "summary_3": "<span>25.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 25.0
+  },
+  {
+    "Country/Area": "Maldives",
+    "summary_1": "<span>1.5 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 1.5,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Martinique",
+    "summary_1": "<span>40.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 40.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Mauritius",
+    "summary_1": "<span>57.3 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 57.3,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Mexico",
+    "summary_1": "<span>710.2 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 710.2,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>74.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 74.0
+  },
+  {
+    "Country/Area": "Morocco",
+    "summary_1": "<span>4.6 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 4.6,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Myanmar",
+    "summary_1": "<span>20.7 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 20.7,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Namibia",
+    "summary_1": "<span>0.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 0.0,
+    "summary_2": "<span>48.5 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 48.5,
+    "summary_3": "<span>40.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 40.0
+  },
+  {
+    "Country/Area": "Netherlands",
+    "summary_1": "<span>1586.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 1586.0,
+    "summary_2": "<span>731.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 731.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "New Zealand",
+    "summary_1": "<span>109.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 109.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Nicaragua",
+    "summary_1": "<span>151.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 151.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Nigeria",
+    "summary_1": "<span>0.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 0.0,
+    "summary_2": "<span>75.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 75.0,
+    "summary_3": "<span>35.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 35.0
+  },
+  {
+    "Country/Area": "Oman",
+    "summary_1": "<span>0.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 0.0,
+    "summary_2": "<span>100.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 100.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Pakistan",
+    "summary_1": "<span>516.7 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 516.7,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>50.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 50.0
+  },
+  {
+    "Country/Area": "Papua New Guinea",
+    "summary_1": "<span>4.5 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 4.5,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Paraguay",
+    "summary_1": "<span>20.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 20.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>220.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 220.0
+  },
+  {
+    "Country/Area": "Peru",
+    "summary_1": "<span>134.2 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 134.2,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Philippines",
+    "summary_1": "<span>527.4 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 527.4,
+    "summary_2": "<span>42.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 42.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Poland",
+    "summary_1": "<span>704.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 704.0,
+    "summary_2": "<span>126.5 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 126.5,
+    "summary_3": "<span>68.4 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 68.4
+  },
+  {
+    "Country/Area": "Portugal",
+    "summary_1": "<span>456.1 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 456.1,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Qatar",
+    "summary_1": "<span>50.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 50.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Republic of the Congo",
+    "summary_1": "<span>6.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 6.0,
+    "summary_2": "<span>10.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 10.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Romania",
+    "summary_1": "<span>30.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 30.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Russia",
+    "summary_1": "<span>82.8 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 82.8,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>265.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 265.0
+  },
+  {
+    "Country/Area": "Rwanda",
+    "summary_1": "<span>0.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 0.0,
+    "summary_2": "<span>15.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 15.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Réunion",
+    "summary_1": "<span>585.3 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 585.3,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Saudi Arabia",
+    "summary_1": "<span>0.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 0.0,
+    "summary_2": "<span>300.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 300.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Senegal",
+    "summary_1": "<span>40.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 40.0,
+    "summary_2": "<span>52.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 52.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Serbia",
+    "summary_1": "<span>37.2 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 37.2,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Sierra Leone",
+    "summary_1": "<span>32.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 32.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Singapore",
+    "summary_1": "<span>438.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 438.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>93.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 93.0
+  },
+  {
+    "Country/Area": "Slovenia",
+    "summary_1": "<span>0.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 0.0,
+    "summary_2": "<span>20.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 20.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "South Africa",
+    "summary_1": "<span>361.4 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 361.4,
+    "summary_2": "<span>45.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 45.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "South Korea",
+    "summary_1": "<span>1603.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 1603.0,
+    "summary_2": "<span>222.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 222.0,
+    "summary_3": "<span>245.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 245.0
+  },
+  {
+    "Country/Area": "Spain",
+    "summary_1": "<span>893.8 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 893.8,
+    "summary_2": "<span>50.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 50.0,
+    "summary_3": "<span>100.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 100.0
+  },
+  {
+    "Country/Area": "Sri Lanka",
+    "summary_1": "<span>38.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 38.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Sudan",
+    "summary_1": "<span>175.8 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 175.8,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Suriname",
+    "summary_1": "<span>30.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 30.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Sweden",
+    "summary_1": "<span>3673.7 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 3673.7,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>45.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 45.0
+  },
+  {
+    "Country/Area": "Switzerland",
+    "summary_1": "<span>246.5 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 246.5,
+    "summary_2": "<span>31.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 31.0,
+    "summary_3": "<span>25.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 25.0
+  },
+  {
+    "Country/Area": "Taiwan",
+    "summary_1": "<span>502.8 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 502.8,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>107.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 107.0
+  },
+  {
+    "Country/Area": "Tanzania",
+    "summary_1": "<span>46.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 46.0,
+    "summary_2": "<span>21.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 21.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Thailand",
+    "summary_1": "<span>2630.9 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 2630.9,
+    "summary_2": "<span>298.6 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 298.6,
+    "summary_3": "<span>30.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 30.0
+  },
+  {
+    "Country/Area": "Türkiye",
+    "summary_1": "<span>1159.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 1159.0,
+    "summary_2": "<span>53.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 53.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Uganda",
+    "summary_1": "<span>86.7 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 86.7,
+    "summary_2": "<span>75.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 75.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Ukraine",
+    "summary_1": "<span>19.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 19.0,
+    "summary_2": "<span>12.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 12.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "United Arab Emirates",
+    "summary_1": "<span>220.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 220.0,
+    "summary_2": "<span>140.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 140.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "United Kingdom",
+    "summary_1": "<span>5492.3 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 5492.3,
+    "summary_2": "<span>558.7 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 558.7,
+    "summary_3": "<span>515.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 515.0
+  },
+  {
+    "Country/Area": "United States",
+    "summary_1": "<span>10078.6 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 10078.6,
+    "summary_2": "<span>329.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 329.0,
+    "summary_3": "<span>65.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 65.0
+  },
+  {
+    "Country/Area": "Uruguay",
+    "summary_1": "<span>708.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 708.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  },
+  {
+    "Country/Area": "Uzbekistan",
+    "summary_1": "<span>0.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 0.0,
+    "summary_2": "<span>92.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 92.0,
+    "summary_3": "<span>20.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 20.0
+  },
+  {
+    "Country/Area": "Vietnam",
+    "summary_1": "<span>443.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 443.0,
+    "summary_2": "<span>1014.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 1014.0,
+    "summary_3": "<span>140.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 140.0
+  },
+  {
+    "Country/Area": "Zambia",
+    "summary_1": "<span>40.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 40.0,
+    "summary_2": "<span>68.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 68.0,
+    "summary_3": "<span>20.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 20.0
+  },
+  {
+    "Country/Area": "Zimbabwe",
+    "summary_1": "<span>96.0 MW</span><br>operating<br> bioenergy power capacity",
+    "summ1data": 96.0,
+    "summary_2": "<span>0.0 MW</span><br>bioenergy power capacity<br> under development",
+    "summ2data": 0.0,
+    "summary_3": "<span>0.0 MW</span><br>bioenergy power capacity<br> under construction",
+    "summ3data": 0.0
+  }
+]
